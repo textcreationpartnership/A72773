@@ -1,0 +1,458 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders taken, and enacted, for orphans and their porcions. anno. M.D.L1 [sic].</title>
+            <title>Acts and orders. 1551-10-13</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1575</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72773</idno>
+            <idno type="STC">STC 16704.3</idno>
+            <idno type="STC">STC 18843A</idno>
+            <idno type="STC">ESTC S110732</idno>
+            <idno type="EEBO-CITATION">99899043</idno>
+            <idno type="PROQUEST">99899043</idno>
+            <idno type="VID">177511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177511)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 217:4; 1002:3; 1250:16; 1997:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders taken, and enacted, for orphans and their porcions. anno. M.D.L1 [sic].</title>
+                  <title>Acts and orders. 1551-10-13</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>in Powles Churchyard, by Iohn Cawood, printer to the Queenes Maiestie [i.e. by Thomas East?,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1554? i.e. 1575?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ostensible printer's name and address from colophon. "Cawood is styled printer to the Queen's Majesty as in [STC] 16701 and undoubtedly did print a Marian ed. of an Edwardian text, both of which are now lost. The present item is considerably later and has the same woodcut 'F' as 16708"--STC addendum.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Running title reads: Orders enacted for orphanes.</note>
+                  <note>The last two leaves are blank.</note>
+                  <note>Identified as STC 16705+ on UMI microfilm reel 217, as STC 18843a on reel 1002 (filmed following STC 20552 without spaces; omitted from reel guide), and as 18843a on reel 1250.</note>
+                  <note>Reproductions of originals in the Guildhall Library, London, England, and the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Orphans --  England --  London --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177511:1"/>
+            <!-- PDF PAGE 120 -->
+            <p>Sighes At the contemporary deaths <hi>OF</hi> Thoſe incomparable <hi>Siſters,</hi> The Counteſſe of <hi>Cleaveland, AND</hi> Miſtriſſe CICILY KILLEGRVE, <hi>Daughters of</hi> Sir IOHN CROFTS <hi>Knight</hi> Of <hi>Saxom Hall,</hi> in the Countie of <hi>Suffolke</hi> Deceaſed, <hi>And his Noble</hi> Lady <hi>now living.</hi> Breathed forth by <hi>F. Q.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Cotes,</hi> for <hi>N. Alſop;</hi> and are to be ſold at the <hi>Angell</hi> in <hi>Popes head Alley.</hi> 1640.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177511:2"/>
+            <!-- PDF PAGE 121 -->
+            <pb facs="tcp:177511:2"/>
+            <!-- PDF PAGE 121 -->
+            <head>TO THE HONORABLE LADY, The <hi>Lady</hi> CROFTS.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">E</seg>Arth is a mixture of Heaven and Hell: Jn heaven is all happineſſe, and no miſery: in Hell, is all miſery, and no happineſſe: Jn earth, both happineſſe, and miſery, The grave is the common Reſt from both. Jf our happineſſe had no mi<g ref="char:EOLhyphen"/>ſery to ſharpen it, wee ſhould expect no o<g ref="char:EOLhyphen"/>ther Heaven; if our miſery had no happi<g ref="char:EOLhyphen"/>neſſe to ſweeten it, we ſhould feare no o<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:177511:3"/>
+               <!-- PDF PAGE 122 -->Hell. But God hath delt us both, that in adverſity, wee may hope better, and in Prosperity, feare worſe. Not ma<g ref="char:EOLhyphen"/>ny Ladies in this Land, could ſhew a fairer Inventory of Gods favour than your ſelfe; either as ſingle, in your owne perſon; or as multiplied, in your children; yet could not all this raiſe you a perfect happineſſe, here. All earthly happineſſe is like earth, alterable; alwayes meeting with an alterable ſubject; in ſo much, that if it could abide with us, wee could not ſtay with it: We muſt ſhake hands and part. Madame, our lives are but Lampes, to light us in this darke Vale, to finde that Jewell wee loſt in Paradiſe, If wee had never loſt that jewell, we had never left that Paradiſe: Theſe your two daugh<g ref="char:EOLhyphen"/>ters found it in their Saviours birth, and
+<pb facs="tcp:177511:3"/>
+               <!-- PDF PAGE 122 -->were ſtrait invited to the feaſt of his Cir<g ref="char:EOLhyphen"/>cumciſion, and ſhall wee be ſad? Dreſt in thoſe jewels, they were called to the Lambs Marriage, and ſhall we mourne? They chang'd an earthly <hi>Hadradrim<g ref="char:EOLhyphen"/>mon</hi> for a heavenly <hi>Ieruſalem,</hi> and ſhall wee lament? Madam, I know Fleſh and Blood (which is made of no<g ref="char:EOLhyphen"/>thing but a little duſt tempered with a few teares) would repine at this. But your Ladiſhip is inſtructed in a better Schoole, and hath attain'd to a higher Forme than Senſe. 'Tis true, Naturall affection hath much to plead against the extreames of Stoiciſme: but Religion hath more to plead against the exceſſe of Naturall affection. Rough Stoiciſme denies all ſorrow: Soft affection excluds all comfort; Religion moderates, and
+<pb facs="tcp:177511:4"/>
+               <!-- PDF PAGE 123 -->with the ſurpluſage of Natures teares, mollifies the Stoicks heart. Madam, I beſeech Almighty God to comfort you in all your griefes, and direct them to their right Object; So ſhall your ſadneſſe be momentary, and your joyes eternall, Ac<g ref="char:EOLhyphen"/>cording to the Wiſhes of</p>
+            <closer>
+               <signed>Your Ladiſhips humble Servant, FRA<g ref="char:punc">▪</g> QVARLES.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:177511:4"/>
+            <!-- PDF PAGE 123 -->
+            <head>Sighes.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>
+                  <hi>If our</hi>
+                  <lb/>
+Sad eyes could rayne</l>
+               <l>For every drop, a Shower,</l>
+               <l>Our needleſſe Quill might then refraine</l>
+               <l>This heavy taske: But ſince our teares are pent</l>
+               <l>Within our ſtraitned eyes, our Pen muſt give them vent<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>
+                  <hi>Blunt Quill,</hi>
+                  <lb/>
+And do'ſt thou think</l>
+               <l>To glorifie thy Skill</l>
+               <l>In Sooty Characters of Inke?</l>
+               <l>Or that thy eaſie Language can proclaime</l>
+               <l>An Accent halfe ſo ſhrill, as the loud Trumpe of Fame<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>
+                  <hi>But tell,</hi>
+                  <lb/>
+O tell me why</l>
+               <l>Should our ſad lines compell</l>
+               <l>A teare, or force a trickling eye?</l>
+               <l>We begge it not: What gentle eye embalmes</l>
+               <l>The precious duſt of Saints, brings Off<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ings, and not Almes<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>
+                  <hi>You whom</hi>
+                  <lb/>
+Victorious Paſſion</l>
+               <l>Hath foyl'd and over come</l>
+               <l>With ſighes and teares, not wept for faſhion,</l>
+               <l>Come beare a part: Theſe Obſequies doe ſue</l>
+               <l>To entertaine ſuch Gueſts, ſuch Gueſts alone as you.</l>
+            </lg>
+            <lg n="5">
+               <pb facs="tcp:177511:5"/>
+               <!-- PDF PAGE 124 -->
+               <head>5.</head>
+               <l>
+                  <hi>Raſh Fates!</hi>
+                  <lb/>
+Were you adviz'd</l>
+               <l>At how extreame great Rates</l>
+               <l>True Honor and Perfection's priz'd,</l>
+               <l>When you in twice two dayes, ſurprized more,</l>
+               <l>Then Ages can preſcribe, then Ages can reſtore.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>
+                  <hi>Repoſe,</hi>
+                  <lb/>
+O gentle earth,</l>
+               <l>This ſacred Duſt, kept cloſe,</l>
+               <l>As Reliques of our buried Mirth:</l>
+               <l>Let Time preſerve your holy Turfts unſtirr'd:</l>
+               <l>This Age will ſcarce unlocke your Gates for ſuch a third.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>
+                  <hi>In this</hi>
+                  <lb/>
+Cold bed of Clay,</l>
+               <l>Vnſtain'd perfection is</l>
+               <l>Laid downe to ſleepe, till breake a day;</l>
+               <l>Which, when the early morning Trumpe ſhall ſo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd,</l>
+               <l>With Ioy, with Robes, with Crownes ſhall wake, be cloath'd, be crown'd<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>
+                  <hi>Sad Tombe!</hi>
+                  <lb/>
+Hadſt thou the might</l>
+               <l>To underſtand for whom</l>
+               <l>Thy marble Curtaines make this night,</l>
+               <l>Thou'ldſt vie with <hi>Mahomets</hi> (if ſuch there be)</l>
+               <l>Two ſtones ſupport but his; two Saints are propts to thee.</l>
+            </lg>
+            <lg n="9">
+               <pb facs="tcp:177511:5"/>
+               <!-- PDF PAGE 124 -->
+               <head>9.</head>
+               <l>
+                  <hi>We ſhould</hi>
+                  <lb/>
+Invoke to ayde,</l>
+               <l>And challenge (if we would)</l>
+               <l>Aſſiſtance from the heavenly <hi>Mayde;</hi>
+               </l>
+               <l>But we forbeare: The Spirit of griefe infuſes</l>
+               <l>More ſalt into our Quill, than all the ſacred <hi>Muſes.</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>
+                  <hi>Provoke</hi>
+                  <lb/>
+Loud ſtormes to blow;</l>
+               <l>Or ſmothring Flaxe to ſmoake;</l>
+               <l>Full ſeas to ſwell; Spring-tides to flow;</l>
+               <l>For us; we need no ay'd, nor will ſuborne</l>
+               <l>The helpe of forreigne Art. True griefe knowes hovv to mourne</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>
+                  <hi>Hard ſtones,</hi>
+                  <lb/>
+If hearts ſhould not,</l>
+               <l>Would cleave and ſplit with grones,</l>
+               <l>Ere ſo much worth ſhould lie forgot:</l>
+               <l>At ſuch a loſſe, ſhould ſtones forbeare to breake</l>
+               <l>Their flinty Silence, ſtones, the very ſtones would ſpeake.</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>
+                  <hi>To ſpeake</hi>
+                  <lb/>
+Bare truth, would try</l>
+               <l>A Faith that were not weake;</l>
+               <l>Twould ſeeme a ranke Hyperboly,</l>
+               <l>To make but halfe their excellence appeare,</l>
+               <l>For whom wee mourne, for whom we juſtifie this teare.</l>
+            </lg>
+            <lg n="13">
+               <pb facs="tcp:177511:6"/>
+               <!-- PDF PAGE 125 -->
+               <head>13.</head>
+               <l>
+                  <hi>If not</hi>
+                  <lb/>
+The height of Blood,</l>
+               <l>Vertue without a ſpot,</l>
+               <l>And all thoſe gifts that earth calls good,</l>
+               <l>May ſend ſome Priviledge to life, nor adde</l>
+               <l>Some ſand to Natures Glaſſe, what matter good or bad!</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>
+                  <hi>Perſwade,</hi>
+                  <lb/>
+Perſwade not me,</l>
+               <l>Falſe earth, to truſt thy aide,</l>
+               <l>Or build my hopes on it, or Thee:</l>
+               <l>Give all thou haſt, alas, thou canſt not make</l>
+               <l>Eſtates for more than life: Thou doſt but give, and take,</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>
+                  <hi>Stone hearts</hi>
+                  <lb/>
+Let mee beſpeake</l>
+               <l>You all to play your parts:</l>
+               <l>If you be too too hard to breake,</l>
+               <l>Too ſtout for drops to pierce, yet come;</l>
+               <l>You'l ſerve for ſtuffe, to build their honourable Tombe</l>
+            </lg>
+            <lg n="16">
+               <head>16.</head>
+               <l>
+                  <hi>To breake</hi>
+                  <lb/>
+The Peace of Saints,</l>
+               <l>In taking leave to ſpeake</l>
+               <l>Our reall griefes in vaine complaints,</l>
+               <l>Is but a tricke of earth: Why ſhould, we thus</l>
+               <l>Afflict our ſoules for them, that finde no griefe, but us?</l>
+            </lg>
+            <lg n="17">
+               <pb facs="tcp:177511:6"/>
+               <!-- PDF PAGE 125 -->
+               <head>17.</head>
+               <l>
+                  <hi>Attend,</hi>
+                  <lb/>
+You gentle eares</l>
+               <l>A while, and wee will end</l>
+               <l>Our ſighes, and wipe away your teares:</l>
+               <l>We'l change our Scene, &amp; we'l unſad our Stile;</l>
+               <l>We'l teach your ſighes to ſing; we'l teach your teares to ſmile.</l>
+            </lg>
+            <lg n="18">
+               <head>18.</head>
+               <l>
+                  <hi>Report.</hi>
+                  <lb/>
+You bleſſed Peeres</l>
+               <l>Of the eternall Court,</l>
+               <l>Your <hi>Hallalujahs</hi> mixt with theirs:</l>
+               <l>Welcome theſe Saints to that Celeſtiall Quire,</l>
+               <l>Where griefes doe not explore; where joyes doe not expire.</l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>
+                  <hi>And you,</hi>
+                  <lb/>
+O bleſſed Payre,</l>
+               <l>That now have enterview</l>
+               <l>With <hi>Thrones</hi> and <hi>Syraphims;</hi> that ſhare</l>
+               <l>With <hi>Powers</hi> and <hi>Angels:</hi> O what Oratory</l>
+               <l>Can colour out your joyes? What Pen can chant your Glory?</l>
+            </lg>
+            <lg n="20">
+               <head>20.</head>
+               <l>
+                  <hi>Shall then</hi>
+                  <lb/>
+The puddle teares</l>
+               <l>Of earth-begotten Men</l>
+               <l>Waſh your white <hi>Names,</hi> or cloy your eares?</l>
+               <l>No, no, 'tis pitty teares ſhould intercept</l>
+               <l>The peace of your ſweet Reſt, where teares are never wept?</l>
+            </lg>
+            <lg n="21">
+               <pb facs="tcp:177511:7"/>
+               <!-- PDF PAGE 126 -->
+               <head>21.</head>
+               <l>
+                  <hi>Shed teares?</hi>
+                  <lb/>
+Had they beene tied</l>
+               <l>To ſerve their wearie yeares</l>
+               <l>At earths hard Trade, and then denied</l>
+               <l>A common Reſt, this had beene apt to breede,</l>
+               <l>A thouſand, thouſand teares: This had beene griefe indeed?</l>
+            </lg>
+            <lg n="22">
+               <head>22.</head>
+               <l>
+                  <hi>Enough:</hi>
+                  <lb/>
+Let this ſuffice</l>
+               <l>To ſhew how poore a Puffe</l>
+               <l>Is earth, and all that earth can prize:</l>
+               <l>Wealth, honor, beauty, in whoſe flames we burne,</l>
+               <l>Give warning in the bed, and leave us at the Vrn.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg n="23">
+               <head>23.</head>
+               <l>
+                  <hi>Without</hi>
+                  <lb/>
+The leaſt ſurmiſe</l>
+               <l>Of unbeliefe, or doubt,</l>
+               <l>Our mountaine faith doth canonize</l>
+               <l>Theſe Saints; whoſe dying Aſhes did conferr</l>
+               <l>To their Redeemers Birth, gifts paſſing gold and Myrrh.</l>
+            </lg>
+            <lg n="24">
+               <head>24.</head>
+               <l>
+                  <hi>My Pen,</hi>
+                  <lb/>
+Thou haſt tranſgreſt;</l>
+               <l>
+                  <hi>Archangels,</hi> and not <hi>Men</hi>
+               </l>
+               <l>Should ſing the ſtory of their Reſt:</l>
+               <l>But we have done, we leave them to the truſt</l>
+               <l>Of heavens eternall Towre, and kiſſe their ſacred Duſt.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:177511:7"/>
+            <!-- PDF PAGE 126 -->
+            <head>Epitaph.</head>
+            <l>IF our blunt Quill but tell you whom,</l>
+            <l>Raſh Fates repoſe in this ſad Tombe;</l>
+            <l>We ſhould provoke hard ſtones to ſpeake,</l>
+            <l>If not perſwade ſtones hearts to breake:</l>
+            <l>Attend report, and you ſhall, then,</l>
+            <l>Shed teares enough without my Pen.</l>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
